@@ -46,7 +46,7 @@ Restricted access
 
 ### **Aortic stenosis**
 
-- **Deep learning based algorithm for detecting aortic stenosis using electrocardiography** (2020), Joon-Myoung Kwon et al. _Journal of the American Heart Association_. [link]
+- **Deep learning based algorithm for detecting aortic stenosis using electrocardiography** (2020), Joon-Myoung Kwon et al. _Journal of the American Heart Association_. [[link](https://doi.org/10.1161/JAHA.119.014717)]
 
 ### **Arrhythmia**
 
