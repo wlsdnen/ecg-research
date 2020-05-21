@@ -62,6 +62,8 @@ Restricted access
 
 ### **Heart failure**
 
+- **Artificial intelligence algorithm for screening heart failure with reduced ejection fraction using electrocardiography** (2020), Jinwoo Cho et al. _ASAIO_. [[link]()]
+
 - **Assessing and Mitigating Bias in Medical Artificial Intelligence: The Effects of Race and Ethnicity on a Deep Learning Model for ECG Analysis** (2020), Noseworthy, Peter A., et al. _Circulation: Arrhythmia and Electrophysiology_. [[link](https://doi.org/10.1161/CIRCEP.119.007988)]
 
 - **ECG AI-Guided Screening for Low Ejection Fraction (EAGLE): Rationale and design of a pragmatic cluster randomized trial** (2020), ZI Attia et al. _American Heart Journal_. [[link](https://doi.org/10.1016/j.ahj.2019.10.007)]
@@ -95,6 +97,10 @@ Restricted access
 ### **Myocardial infarction**
 
 - **DIAGNOSIS OF ST-ELEVATED MYOCARDIAL INFARCTION BY ARTIFICIAL INTELLIGENCE WITH 12-LEAD ELECTROCARDIOGRAPH. THE ALERT-PILOT STUDY** (2019), Zhang, Y et al. _Journal of Hypertension_. [[link](https://doi.org/10.1097/01.hjh.0000573000.85159.94)]
+
+### **Mortality**
+
+- **Prediction of mortality from 12-lead electrocardiogram voltage data using a deep neural network.** (2020), Raghunath, S. et al. _Nat Med_ [[link](https://doi.org/10.1038/s41591-020-0870-z)]
 
 ### **Others**
 
